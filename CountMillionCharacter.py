@@ -301,3 +301,4 @@ print("Frequencies\n {} \n".format(str(wordfreq)))
 print("Pairs\n {}".format(str(dict(zip(wordlist, wordfreq)))))
 
 print("Adding my two cents here!")
+print("Some more!")
